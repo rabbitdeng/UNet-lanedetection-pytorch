@@ -5,4 +5,6 @@
 
 已经上传预训练模型以及测试视频。
 
-pre-trained model and test video uploaded: google drive: https://drive.google.com/file/d/1uCKRD2s67YHWfch8qfr07GTUEUhyZcIC/view?usp=sharing
+pre-trained model and test video uploaded:
+
+google drive: https://drive.google.com/file/d/1uCKRD2s67YHWfch8qfr07GTUEUhyZcIC/view?usp=sharing
